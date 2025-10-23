@@ -20,7 +20,7 @@ public class BinarySearch {
 	//		} while (lo<hi);
 	//		return -1;
 	//	}
-	
+//prueba	
 // Primera forma
 	private static int binarySearch(int[] list, int lo, int hi, int value) {
 	    // Caso base: queda un solo elemento
